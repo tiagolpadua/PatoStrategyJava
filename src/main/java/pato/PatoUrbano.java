@@ -2,7 +2,7 @@ package pato;
 
 public class PatoUrbano extends Pato{
 	public PatoUrbano() {
-		grasno = new Que();
+		grasno = new Qua();
 		voo = new VooBaixo();
 	}
 }
